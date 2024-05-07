@@ -1,0 +1,2 @@
+respond to the Project0 request of CIT5950 by Haomimg Ma
+it was a good start for me for this project. I do not have any experience in using Github. I am looking forward to get familiar with all the content, especially the basics in C. I am looking forward to improving my skills in programming, especially collaborating with other programmers using GitHub. Although I do not have any experiece. At least I tried my best on this project. 
